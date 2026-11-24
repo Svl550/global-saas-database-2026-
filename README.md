@@ -14,7 +14,7 @@ A structured, verified, and continuously updated dataset of **1,000+ global B2B 
 | Tier | Records | Formats | Link |
 | :--- | :--- | :--- | :--- |
 | **Free Community Sample** | 100 Companies | CSV | [Download Preview CSV](preview/sample_free_100_startups.csv) |
-| **Full Commercial Database** | **1,000+ Verified** | CSV + JSON + SQLite | **[Instant Access on Gumroad](https://svl.gumroad.com)** |
+| **Full Commercial Database** | **1,000+ Verified** | CSV + JSON + SQLite | **[Instant Access on Ko-fi](https://ko-fi.com/s/9df9ae5778)** |
 
 ---
 
@@ -74,4 +74,4 @@ This repository runs an automated GitHub Actions pipeline every Monday at 06:00 
 
 The complete dataset is released under a permissive commercial usage license. You are free to use it for internal lead generation, client projects, analytics, and software application enrichment.
 
-👉 **Get Full Instant Access**: [https://svl.gumroad.com](https://svl.gumroad.com)
+👉 **Get Full Instant Access**: [https://ko-fi.com/s/9df9ae5778](https://ko-fi.com/s/9df9ae5778)
