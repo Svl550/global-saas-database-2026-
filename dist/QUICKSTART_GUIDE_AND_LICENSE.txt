@@ -1,0 +1,32 @@
+=============================================================
+GLOBAL SAAS & HIGH-GROWTH STARTUPS DATABASE (2026 EDITION)
+=============================================================
+
+Thank you for your purchase!
+
+This archive contains the full, verified database of 1,000+ technology
+companies, AI startups, and SaaS products in 3 universal formats:
+
+1. global_saas_database_2026.csv
+   - Ready for direct import into Microsoft Excel, Google Sheets,
+     Airtable, Notion, or CRM tools (HubSpot, Salesforce).
+   - Encoded in UTF-8.
+
+2. global_saas_database_2026.json
+   - Ideal for developers, API integrations, and web applications.
+   - Beautifully formatted and structured.
+
+3. global_saas_database_2026.sqlite
+   - Pre-indexed standalone relational database file.
+   - Open with DB Browser for SQLite, DBeaver, or directly via Python/Node.js:
+     Query example:
+     SELECT company_name, website, tech_stack FROM startups WHERE category = 'AI & Machine Learning';
+
+COMMERCIAL LICENSE:
+You have full commercial rights to use this data for internal analytics,
+marketing, lead generation, consulting, or client deliverables.
+Redistribution or public resale of the raw database file is prohibited.
+
+Support / Questions:
+Visit our store: https://svl.gumroad.com
+=============================================================
